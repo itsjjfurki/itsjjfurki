@@ -1,13 +1,6 @@
-Hi ! itsjjfurki here
+itsjjfurki here!
 =====================================================================================================================================
 
-<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="360" src="https://giphy.com/embed/gtm6yZur9eRFoo1UvO/video" width="480"></iframe></div>
-
-Fullstack Developer
--------------------
-
-* 🌍  I'm based in Istanbul
-* ✉️  You can contact me at [furkoztu@gmail.com](mailto:furkoztu@gmail.com)
 
 ### Skills
 
@@ -31,3 +24,7 @@ Fullstack Developer
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
+
+### YEAH!
+
+https://user-images.githubusercontent.com/22621718/204137804-3e86a3d6-6f1d-4472-be00-6df6cee436ac.mp4
