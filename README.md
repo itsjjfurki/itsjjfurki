@@ -1,5 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Furkan OZTURK
+Hi ! itsjjfurki here
 =====================================================================================================================================
+
+<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="360" src="https://giphy.com/embed/gtm6yZur9eRFoo1UvO/video" width="480"></iframe></div>
 
 Fullstack Developer
 -------------------
